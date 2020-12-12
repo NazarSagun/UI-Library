@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+button {
+  width: 50px;
+  height: 20px;
+  background-color: #a35a5a;
+  border: none;
+  color: #fff;
+  outline: none; }
+
+.active {
+  border: 2px solid black;
+  color: black; }
